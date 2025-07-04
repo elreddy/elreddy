@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Lokesh Reddy
+# 👋 Hey there! I'm Eegapuri Lokeshwar Reddy
 
 ## 🚀 Data Engineer | ETL/ELT | Big Data Enthusiast | Actively looking for Job opportunities| Immediate Joiner
 
