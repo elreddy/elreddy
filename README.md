@@ -79,7 +79,7 @@ I'm actively seeking Job opportunities in:
 - **Big Data Engineer** positions
 - **ETL Developer** positions
 - **Data Warehousing** positions
-- **Cloud Data Architecture** projects
+- **Cloud Data Architecture** projects and tools
 
 **I'm particularly interested in:**
 - Building next-generation data lakehouses
