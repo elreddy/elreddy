@@ -68,7 +68,7 @@ I'm a passionate **Data Engineer** with 3 years of hands-on experience building 
 - Optimized data storage solutions, reclaiming 30% of resources through efficient code and schema designs.
 - Built and managed 250+ Kafka topics, enabling scalable real-time event-driven architectures.
 
-## Checkout my CV: [Resume](Lokesh_Resume.pdf)
+## Checkout my CV: [Resume](Lokesh_Resume).pdf)
 ---
 
 ## 🌟 What I'm Looking For
