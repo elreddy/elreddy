@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Eegapuri Lokeshwar Reddy
 
-## 🚀 Data Engineer | ETL/ELT | Big Data Enthusiast | Actively looking for Job opportunities| Immediate Joiner
+## 🚀 Data Engineer | ETL Developer | Big Data/CLoud  Enthusiast | Actively looking for Job opportunities| Immediate Joiner
 
 > *"Turning raw data into actionable insights, one pipeline at a time"*
 
