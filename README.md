@@ -38,7 +38,6 @@ I'm a passionate **Data Engineer** with 3 years of hands-on experience building 
 
 ### ☁️ **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
@@ -59,15 +58,15 @@ I'm a passionate **Data Engineer** with 3 years of hands-on experience building 
 
 ## 💼 Professional Experience Highlights
 
-### 🏢 **Tata Consultancy Services (TCS)** | *System Engineer/Data Operations*
+### 🏢 **Tata Consultancy Services (TCS)** | *System Engineer/ETL Developer*
 **Apr 2019 - Feb 2022**
 
 🎯 **Key Achievements:**
-- Managed **2000+ enterprise ETL jobs** across OLAP environments
-- Delivered **200+ Change Requests** with zero SLA breaches
-- Improved operational efficiency by **35%** through automation
-- Recovered **30% storage space** with intelligent resource management
-- Operated **250+ Kafka topics** for real-time event streaming
+- Supported and enhanced 2000+ ETL jobs and developed 45+ new ETL pipelines for OLAP systems, ensuring robust data processing.
+- Implemented 200+ feature enhancements and bug fixes with zero defects in production.
+- Boosted development productivity by 35% through automation scripts and CI/CD pipeline optimizations.
+- Optimized data storage solutions, reclaiming 30% of resources through efficient code and schema designs.
+- Built and managed 250+ Kafka topics, enabling scalable real-time event-driven architectures.
 
 ## Checkout my CV: [Resume](Lokesh_Resume.pdf)
 ---
